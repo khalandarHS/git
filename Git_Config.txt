@@ -1,0 +1,11 @@
+
+Git Config
+================================================================================================================================================
+
+[root@jenkins webapp]# git config --global user.name "khalandarHS"
+[root@jenkins webapp]# git config --global user.email "khalandar.h.s@gmail.com"
+[root@jenkins webapp]# git config --global core.editor "vim"
+[root@jenkins webapp]# git config --global color.ui true
+[root@jenkins webapp]# git config --list
+
+
